@@ -32,7 +32,6 @@ export default function App() {
       />
       <button onClick={generateQR}>Generate</button>
     </div>
-
       {qr && (
         <>
           <img src={qr} alt="QR Code" />

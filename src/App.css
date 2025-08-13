@@ -88,7 +88,8 @@ img {
 	display: block;
 	width: 250px;
 	height: 250px;
-	margin: 1.5rem auto;
+	margin: 1.5rem auto; 
+	
 	border-radius: 0.5rem;
 	background: #fff;
 	padding: 0.5rem;
